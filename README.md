@@ -1,4 +1,3 @@
-# the-wave
 A virtual reality at your fingertips
 <br> 
 Come on board and be part of something extraordinary! Your wildest dreams are here, in an app at your figertips!
@@ -8,7 +7,7 @@ Come on board and be part of something extraordinary! Your wildest dreams are he
   <body>
   </body>
   </html>
-  <H1> THE WAVE </H1>
+  <H1> # the-wave </H1>
   <br> 
   <p1>
   Welcome to my project. This is an idea that I only recently thought up but i believe it could be huge in the future. Millions of users living virtually everyday in what could be described as a post - sims, gta (without the violence) , secondlife type game in an adaptation of the users' real life. Do practical day to day things like track what you're eating, see how many calories youre burning through exercise. Track your finances in the wallet section, learn new skills, compete in challenges with and against friends. I hope to team up with the likes of google and ea to bring this idea to life. Big investment would be needed, a mass of creators and developers to make this happen. I even hope to collaborate with real high street shops to sell thier products online to our users. I'm hoping to create a map almost cartoonised but real using google mas gprs which would track where our avatar is.
