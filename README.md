@@ -14,4 +14,4 @@ Come on board and be part of something extraordinary! Your wildest dreams are he
   </p1>
   <p2>
   The first thing the user does when signing on to the wave is create their real life avatar. The user has the choice to make their avatar look just like them using facial recognition technology or to create any type of character they wish. Dress your avatar in an amazing selection of clothes from the wardrobe...Then pick where you want to live...this game is all about choice and the map is real! Live where you live in real life or build a new home whereever you like. It's totally up to you. The wave is available 24/7. 
- 
+ Use a special face generator to build your ow uniqgue character.Then sign in to use gprs for your location and build your house just like the sims.
